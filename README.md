@@ -1,5 +1,5 @@
 # py-snake-game
- Simple snake game made in python.
+ Simple snake game made in python!
 
 ```py
 
